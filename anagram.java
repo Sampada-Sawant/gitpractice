@@ -19,10 +19,10 @@ public class anagram
         }
         if(count>=str1.length())
         {
-            System.out.println("\nThe two strings : "+str1+" and "+str2+" are anagram of each other.");
+            System.out.println("\nThe two strings : "+str1+" and "+str2+" are ANAGRAM of each other.");
         }else 
         {
-            System.out.println("\nThe two strings : "+str1+" and "+str2+" are NOT anagram of each other.");
+            System.out.println("\nThe two strings : "+str1+" and "+str2+" are NOT ANAGRAM of each other.");
         }
     }
 
