@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.String;
 
-public class TwoString 
+public class anagram
 {
     static void anagramOfString(String str1, String str2)
     {
